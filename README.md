@@ -23,7 +23,7 @@ This project combines **IT technologies, teamwork, and practical product creatio
 [🔗 Our YouTube Channel](https://www.youtube.com/@Revia-uni-weather-project)
 
 ### 💼 LinkedIn  
-[🔗 LinkedIn Profile(s)]()
+[🔗 LinkedIn Profile(s)](https://www.linkedin.com/company/revia-university-project/?viewAsMember=true)
 
 ---
 
