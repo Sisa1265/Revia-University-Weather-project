@@ -85,7 +85,7 @@ Je energeticky úsporný a vhodný na jednoduché grafické rozhrania.
 
 ### 3. SD karta a napájanie
 
-Použitá microSD karta: 32 GB, Class 10.  
+Použitá microSD karta: 256 GB, ale stači aj oveľa menšia.  
 Stabilné napájanie bolo dôležité najmä pri konfigurácii displeja.
 
 ### 4. Pinout a správne zapojenie
