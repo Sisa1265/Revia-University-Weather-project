@@ -112,7 +112,6 @@ Riešenie: použiť **Raspberry Pi OS Lite 32-bit**.
 
 - Pri výbere displeja vždy over kompatibilitu s verziou OS.  
 - SPI displeje sú pomalšie než HDMI – vhodné na statické UI, nie animácie.  
-- Zero 2 W má obmedzený výkon → preto je najvhodnejší OS Lite (bez grafického desktopu).  
 - Najčastejšia chyba pri zapojení je zlé zarovnanie Pin 1.
 
 ---
