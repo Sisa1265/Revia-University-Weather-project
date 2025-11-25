@@ -1,4 +1,5 @@
---- 
+---
+```yaml
 id: "" 
 
 guid: "" 
@@ -33,7 +34,8 @@ rights_holder_system: "Roman Kazička (CAA/KNIFE/LetItGrow)"
 
 license: "CC-BY-NC-SA-4.0" 
 
-disclaimer: "Use at your own risk. Methods provided as-is; participation is voluntary and context-aware." 
+disclaimer: "Use at your own risk. Methods provided as-is; participation is voluntary and context-aware."
+```
 
 locale: "sk" 
 
