@@ -1,5 +1,4 @@
 --- 
-
 id: "" 
 
 guid: "" 
@@ -39,6 +38,7 @@ disclaimer: "Use at your own risk. Methods provided as-is; participation is volu
 locale: "sk" 
 
 ---
+
 
 # Knowledge Contribution  
 ## Výber hardvéru a pochopenie komponentov
